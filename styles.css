@@ -1,0 +1,9 @@
+/* styles.css */
+body {
+    font-family: papyrus;
+    margin: 200px;
+}
+
+.error {
+    color: red;
+}
